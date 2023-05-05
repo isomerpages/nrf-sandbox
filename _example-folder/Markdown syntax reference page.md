@@ -48,4 +48,4 @@ While it's not possible to embed video in markdown, the best and easiest way is 
 [![Alt text](/images/hero-banner.png)](https://safe.menlosecurity.com/https://www.youtube.com/watch?v=fsBoM23PKMs&amp;t=1s)
 
 <b> to configure image size </b>
-<img width="170" height="30" alt="drawing" src="images/hero-banner.png">
+<img width="20" height="30" alt="drawing" src="images/hero-banner.png">
