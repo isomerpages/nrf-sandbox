@@ -49,4 +49,4 @@ While it's not possible to embed video in markdown, the best and easiest way is 
 
 <b> to configure image size </b>
 
-[<img width="2500" src="/images/hero-banner.png">\](/images/hero-banner.png)
+[<img width="20" src="/images/hero-banner.png">](/images/hero-banner.png)
