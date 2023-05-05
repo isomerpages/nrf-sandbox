@@ -49,3 +49,12 @@ While it's not possible to embed video in markdown, the best and easiest way is 
 
 <b> to configure image size </b>
 <img width="20" height="30" alt="drawing" src="images/hero-banner.png">
+
+   <style>
+   img{width: 590%;}
+   #foo {color: red;}
+   </style>
+    
+   <p id="foo">foo</p>
+    
+   <p style="color: blue">bar</p>
